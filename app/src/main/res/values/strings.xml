@@ -1,3 +1,19 @@
 <resources>
-    <string name="app_name">pt2</string>
+    <string name="app_name">DanusTelu</string>
+
+    <string name="register_title">Daftar dulu, yuk</string>
+
+    <!--  STRING LABEL TEXT-FIELDS LOGIN DAN REGISTER  -->
+    <string name="uname_label">Nama Pengguna</string>
+    <string name="nohp_label">Nomor Handphone</string>
+    <string name="pass_label">Kata Sandi</string>
+    <string name="cpass_label">Konfirmasi Kata Sandi</string>
+
+    <!--  STRING BUTTON : LOGIN, REGISTER, RESET  -->
+    <string name="confirmButton">Masuk</string>
+    <string name="resetButton">Kirim</string>
+    <string name="registerButton">Daftar</string>
+
+
+    <string name="linkweb">www.Danus_Tel-U.com</string>
 </resources>
